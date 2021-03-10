@@ -53,8 +53,4 @@ def welcome_text(text):
 
 if __name__ == '__main__':
     game_function()
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
     welcome_text("do u wanna play more? Just rerun me :D")
-# Izsauc welcome_text funkciju un parametros norādi izprintējamo tekstu
