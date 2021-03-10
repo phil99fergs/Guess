@@ -1,6 +1,6 @@
-# Spēles apkrasts
+# Guess your number!
 # Žans Kristians Cepeļevs
-# Datums, vieta
+# 10.03.2021, Valmiera
 
 # Importē random libary
 # Importē math libary
